@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 type="stream" tvg-id="BBB: Principal" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Principal
+http://us12.server.kkbravo.xyz/HD_BBB/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="Disney Channel" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel
+http://us11.koscar.live/SD_DISNEY/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="Disney Channel HD" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel HD
+http://pl.server.kkecho.xyz/HD_DISNEY/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",ESPN
+http://fr.kgolf.site/SD_ESPN/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="ESPN 2" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2
+http://us.khotel.live/SD_ESPN_2/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="ESPN 2 HD" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2 HD
+ttp://us12.server.kktango.xyz/HD_ESPN_2/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
+http://us13.server.khotel.store/SD_ESPN_BRASIL/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="ESPN Brasil FHD" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil FHD
+http://us12.server.kecho.store/FHD_ESPN_2/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="ESPN Brasil HD" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil HD
+http://us12.server.kkalfa.xyz/HD_ESPN_BRASIL_ALTER/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes
+http://us12.server.kkdelta.xyz/SD_PFC_CLUBES/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes FHD
+http://us13.server.khotel.store/FHD_PFC_CLUBES/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes HD
+http://fr.ktango.live/HD_PFC_CLUBES/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV
+http://us13.server.kpkilo.xyz/SD_SPORTV_1/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="SporTV 2" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2
+http://lb.kstream.org/aovivo/SD_SPORTV_2/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 HD" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2 HD
+http://us12.server.kkcharlie.xyz/HD_SPORTV_2/video.m3u8?token=ed6685e1b4089549d7ac3387a85a0ab6
